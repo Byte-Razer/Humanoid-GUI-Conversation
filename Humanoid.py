@@ -1,3 +1,4 @@
+#Owner Mohit
 try:
     from PyQt5 import QtCore, QtGui, QtWidgets
 except ImportError:
@@ -501,3 +502,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
