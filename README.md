@@ -1,11 +1,12 @@
 # 🤖 The Humanoid Project — AURA Interface
 
-### Developed by the Humanoid Team  
-**Lead Developer & Head Coder:** Mohit Sheth
+### Developed by the Humanoid Team
+**Coach: Jewel Tilak**
+
+**Lead Developer & Head Coder: Mohit Sheth** 
 
 **Implemented voice recognition and transcription(query.py): Aarav Jain**
 
-**Coach: Jewel Tilak""
 
 ---
 
