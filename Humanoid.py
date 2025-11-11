@@ -124,7 +124,7 @@ QPushButton {{
     border-radius: 18px;
     padding: 10px 18px;
     color: {text_color};
-    font-size: 24px;
+    font-size: 28px;
     font-weight: 600;
     letter-spacing: 0.6px;
     text-align: center;
@@ -139,7 +139,8 @@ class AuraCore(QtWidgets.QLabel):
     def __init__(self):
         super().__init__()
         self.setFixedSize(540, 540)
-        self._color = QtGui.QColor(38, 103, 255)
+        #self._color = QtGui.QColor(38, 103, 255)
+        self._color = QtGui.QColor(100, 220, 255)
         self._opacity = 180
         self._scale = 1.0
         self.phase = 0.0
@@ -389,7 +390,8 @@ class AuraMain(QtWidgets.QMainWindow):
             return
         try:
             # Visual feedback (blueish pulse)
-            self.aura_core.pulse_react(QtGui.QColor(100, 220, 255))
+            self.aura_core.pulse_react(QtGui.QColor(38, 103, 255))
+
 
             # Show "Recognizing..." in the status label
             self.status_label.setText("Recognizing...")
@@ -502,4 +504,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
