@@ -5,7 +5,7 @@
 
 **Lead Developer & Head Coder: Mohit Sheth** 
 
-**Implemented voice recognition and transcription(query.py): Aarav Jain**
+**Implemented voice recognition and transcription: Aarav Jain**
 
 
 ---
