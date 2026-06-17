@@ -2,12 +2,9 @@
 Hey welcome to AURA- Automated Unified Robotic Assistant.
 
 ### Developed by the Humanoid Team
-**Coach: Jewel Tilak**
-
 **Head Coder: Mohit Sheth** 
 
-**Other Team Members**: Aarav Jain, Arnav Sharma, Prisha Kapadia
-
+**Team Members**: Aarav Jain, Arnav Sharma, Tvisha, Prisha Kapadia, Pahal Shah
 
 ---
 
