@@ -26,7 +26,8 @@ A task seemingly impossible, but I knew AURA wouldn't be as complete as it is wi
 
 AURA in ACTION 🔥
 
-<img width="374" height="512" alt="image" src="https://github.com/user-attachments/assets/8d93d4d7-6b22-4775-90e9-6b70f8522d55" />
+<img width="249" height="341" alt="image" src="https://github.com/user-attachments/assets/8d93d4d7-6b22-4775-90e9-6b70f8522d55" />
 
 <img width="558" height="360" alt="image" src="https://github.com/user-attachments/assets/260d1c4c-4e79-44ac-a73e-59891935dbc7" />
 
+<img width="747" height="956" alt="Wiring of bot" src="https://github.com/user-attachments/assets/e25a41dc-e6f7-4433-b949-db2e15d0e826" />
