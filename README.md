@@ -19,9 +19,12 @@ A task seemingly impossible, but I knew AURA wouldn't be as complete as it is wi
 ---
 
 ## 🌟 Key Features
--Registration by taking face samples
--Recognising users
--Chatting with user
+-Registration by taking face samples.
+
+-Recognising users and greeting them.
+
+-Answering questions about the school.
+
 -A futuristic GUI: with a orb which pulses like a heartbeat
 
 AURA in ACTION 🔥
